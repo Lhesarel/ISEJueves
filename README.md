@@ -1,2 +1,2 @@
 # ISEJueves
-Repo para ISE
+Repo para ISE. Truqui del almendruqui
